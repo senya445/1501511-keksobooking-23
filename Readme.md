@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Сеня Комаров](https://up.htmlacademy.ru/javascript/23/user/1501511).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Петрашенко](https://htmlacademy.ru/profile/vadimator).
 
 ---
 
