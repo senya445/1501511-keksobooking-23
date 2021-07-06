@@ -1,4 +1,4 @@
-script>
+<script>
   document.addEventListener('DOMContentLoaded', () => alert("Дерево DOM готово после скрипта с 'defer'!")); // (2)
 </script>
 
